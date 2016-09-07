@@ -14,12 +14,11 @@ Parse SDK for JavaScript https://github.com/ParsePlatform/Parse-SDK-JS
 ## Parse Tutorials
 
 ## Parse Projects
-A sample store app with Stripe and Parse integration  https://github.com/ParsePlat
-form/ParseStore.
+A sample store app with Stripe and Parse integration  https://github.com/ParsePlatform/ParseStore.
 
 An open source mobile and web app that lets users share photos similar to Instagram   https://github.com/ParsePlatform/Anypic.
 
-a full native iPhone app to create realtime, text based group or private chat with Parse https://github.com/relatedcode/ParseChat  .
+A full native iPhone app to create realtime, text based group or private chat with Parse https://github.com/relatedcode/ParseChat.
 
 
 
